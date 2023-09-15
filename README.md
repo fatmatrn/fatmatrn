@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [food-order](https://food-order-eight-lac.vercel.app/)
+- 🔭 I’m currently working on [quick-ordering](https://food-order-eight-lac.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js,Tailwindcss**
 
